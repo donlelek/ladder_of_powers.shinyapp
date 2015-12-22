@@ -1,5 +1,5 @@
 # Ladder of powers shinyapp
-A visualization of Tukey's ladder of powers
+A visualization of Tukey's ladder of powers.  
 To run this app in Rstudio, just type the following in your console:
 
 ```r
